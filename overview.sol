@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract ca {
+contract overview {
     string public name = "sid";
     uint public age = 20;
 }
